@@ -1,0 +1,21 @@
+header nav ul {
+  list-style-type: none;
+  display: flex;
+  font-size: 1.5rem;
+  justify-content: center;
+  gap: 1em;
+  background: var(--background_primary);
+  border-bottom: 3px solid var(--color_primary);
+}
+
+header nav ul li {
+  margin: 1em;
+}
+header nav ul li a {
+  display: inline-block;
+  padding: 1em;
+  background-color: var(--background_button);
+  color: var(--color_button);
+  border-radius: 10px;
+  transition: all 0.4s linear;
+}

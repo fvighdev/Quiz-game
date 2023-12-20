@@ -1,0 +1,96 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Add Question</title>
+    <link rel="stylesheet" href="../../../style.css" />
+    <link rel="stylesheet" href="../../shared/header/header.css" />
+    <link rel="stylesheet" href="add-form.css" />
+    <script src="./add-form.controller.js" type="module"></script>
+  </head>
+  <body>
+    <header>
+      <nav>
+        <ul>
+          <li><a href="../../../index.html">Quiz</a></li>
+          <li><a href="./add-form.html">Add question</a></li>
+          <li>
+            <a href="../manage-questions/manage-questions.html"
+              >Manage questions</a
+            >
+          </li>
+        </ul>
+      </nav>
+    </header>
+    <main>
+      <h3 class="manage-questions__message-box">message bla</h3>
+      <form id="add-question-form">
+        <h2>Add new Question</h2>
+        <div class="form-group">
+          <div class="form-control">
+            <label for="form-question">Enter the question</label>
+            <input
+              type="text"
+              name="form-question"
+              placeholder="Add your question here..."
+              id="form-question"
+            />
+          </div>
+        </div>
+        <div class="form-group">
+          <div class="form-control">
+            <div>
+              <p>List of answers:</p>
+              <ul class="answerlist"></ul>
+              <hr />
+            </div>
+            <label id="answer-label" for="form-answers"
+              >Enter a possible answer:</label
+            >
+            <input
+              minlength="2"
+              type="text"
+              name="form-answers"
+              id="form-answers"
+              placeholder="Add answers here..."
+            />
+            <button type="button" class="form-add-answer">Add +</button>
+          </div>
+        </div>
+        <div class="form-group">
+          <!--
+
+            <div class="form-control">
+              <label for="form-correct-answer">Enter correct Answer</label>
+              <input
+                type="text"
+                name="form-correct-answer"
+                id="form-correct-answer"
+                placeholder="Place of the correct answer"
+              />
+            </div>
+          -->
+          <div class="form-control">
+            <label for="form-correct-answer">Choose correct Answer</label>
+            <select
+              name="form-correct-answer"
+              id="form-correct-answer"
+            ></select>
+          </div>
+        </div>
+        <div class="form-group">
+          <div class="form-control">
+            <label for="form-difficulty">Choose Difficulty</label>
+            <select name="form-difficulty" id="form-difficulty">
+              <option value="easy">Easy</option>
+              <option value="medium">Medium</option>
+              <option value="hard">Hard</option>
+            </select>
+          </div>
+        </div>
+        <button class="form__upload-btn">Upload question</button>
+      </form>
+    </main>
+  </body>
+</html>

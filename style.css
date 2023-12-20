@@ -1,0 +1,58 @@
+:root {
+  --background_primary: rgb(22, 20, 20);
+  --background_secondary: rgb(34, 23, 56);
+  --background_button: rgb(105, 121, 248);
+  --color_primary: rgb(233, 212, 212);
+  --color_button: black;
+}
+
+* {
+  padding: 0;
+  margin: 0;
+  box-sizing: border-box;
+}
+body {
+  min-height: 100vh;
+  background-color: var(--background_secondary);
+}
+
+main {
+  background-color: var(--background_secondary);
+
+  color: var(--color_primary);
+}
+
+#correct-answer {
+  background-color: green;
+}
+
+.hidden {
+  display: none;
+}
+
+button {
+  background-color: var(--background_button);
+  color: var(--color_button);
+  border: none;
+  display: inline-block;
+  padding: 1em;
+}
+input {
+  background-color: var(--background_button);
+}
+
+input:focus {
+  outline: 3px solid var(--color_primary);
+}
+
+select {
+  background-color: var(--background_button);
+}
+
+::placeholder {
+  color: var(--color_button);
+}
+
+.icon {
+  max-width: 40px;
+}

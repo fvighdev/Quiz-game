@@ -1,0 +1,182 @@
+[
+  {
+    "id": "q_1",
+    "difficulty": "easy",
+    "question": "What year is this?",
+    "answerList": [2023, 2020, 1999, 1984],
+    "correctAnswer": 2023
+  },
+  {
+    "id": "q_2",
+    "difficulty": "medium",
+    "question": "Which planet is known as the Red Planet?",
+    "answerList": ["Mars", "Jupiter", "Venus", "Saturn"],
+    "correctAnswer": "Mars"
+  },
+  {
+    "id": "q_3",
+    "difficulty": "hard",
+    "question": "In what year did World War II end?",
+    "answerList": [1943, 1945, 1950, 1939],
+    "correctAnswer": 1945
+  },
+  {
+    "id": "q_4",
+    "difficulty": "easy",
+    "question": "What is the capital city of France?",
+    "answerList": ["Berlin", "Madrid", "Paris", "Rome"],
+    "correctAnswer": "Paris"
+  },
+  {
+    "id": "q_5",
+    "difficulty": "medium",
+    "question": "Who wrote the play 'Romeo and Juliet'?",
+    "answerList": [
+      "Charles Dickens",
+      "William Shakespeare",
+      "Jane Austen",
+      "Mark Twain"
+    ],
+    "correctAnswer": "William Shakespeare"
+  },
+  {
+    "id": "q_6",
+    "difficulty": "hard",
+    "question": "What is the chemical symbol for gold?",
+    "answerList": ["Go", "Au", "Ag", "Ge"],
+    "correctAnswer": "Au"
+  },
+  {
+    "id": "q_7",
+    "difficulty": "easy",
+    "question": "How many continents are there on Earth?",
+    "answerList": [5, 6, 7, 8],
+    "correctAnswer": 7
+  },
+  {
+    "id": "q_8",
+    "difficulty": "medium",
+    "question": "Which element has the symbol 'O'?",
+    "answerList": ["Oxygen", "Gold", "Iron", "Silver"],
+    "correctAnswer": "Oxygen"
+  },
+  {
+    "id": "q_9",
+    "difficulty": "hard",
+    "question": "Who was the first woman to win a Nobel Prize?",
+    "answerList": [
+      "Marie Curie",
+      "Rosalind Franklin",
+      "Jane Goodall",
+      "Florence Nightingale"
+    ],
+    "correctAnswer": "Marie Curie"
+  },
+  {
+    "id": "q_10",
+    "difficulty": "easy",
+    "question": "What is the capital city of Japan?",
+    "answerList": ["Beijing", "Seoul", "Tokyo", "Bangkok"],
+    "correctAnswer": "Tokyo"
+  },
+  {
+    "id": "q_11",
+    "difficulty": "medium",
+    "question": "Who painted the Mona Lisa?",
+    "answerList": [
+      "Vincent van Gogh",
+      "Leonardo da Vinci",
+      "Pablo Picasso",
+      "Claude Monet"
+    ],
+    "correctAnswer": "Leonardo da Vinci"
+  },
+  {
+    "id": "q_12",
+    "difficulty": "hard",
+    "question": "In what year was the United Nations founded?",
+    "answerList": [1942, 1945, 1950, 1939],
+    "correctAnswer": 1945
+  },
+  {
+    "id": "q_13",
+    "difficulty": "easy",
+    "question": "Which is the largest ocean on Earth?",
+    "answerList": [
+      "Atlantic Ocean",
+      "Indian Ocean",
+      "Southern Ocean",
+      "Pacific Ocean"
+    ],
+    "correctAnswer": "Pacific Ocean"
+  },
+  {
+    "id": "q_14",
+    "difficulty": "medium",
+    "question": "What is the capital city of Brazil?",
+    "answerList": ["Buenos Aires", "Santiago", "Lima", "Brasília"],
+    "correctAnswer": "Brasília"
+  },
+  {
+    "id": "q_15",
+    "difficulty": "hard",
+    "question": "Who was the first person to step on the moon?",
+    "answerList": [
+      "Buzz Aldrin",
+      "Neil Armstrong",
+      "Yuri Gagarin",
+      "Michael Collins"
+    ],
+    "correctAnswer": "Neil Armstrong"
+  },
+  {
+    "id": "q_16",
+    "difficulty": "easy",
+    "question": "What is the largest mammal in the world?",
+    "answerList": ["Elephant", "Giraffe", "Blue Whale", "Hippopotamus"],
+    "correctAnswer": "Blue Whale"
+  },
+  {
+    "id": "q_17",
+    "difficulty": "medium",
+    "question": "Who wrote 'To Kill a Mockingbird'?",
+    "answerList": [
+      "Ernest Hemingway",
+      "F. Scott Fitzgerald",
+      "Harper Lee",
+      "J.K. Rowling"
+    ],
+    "correctAnswer": "Harper Lee"
+  },
+  {
+    "id": "q_18",
+    "difficulty": "hard",
+    "question": "What is the speed of light in a vacuum?",
+    "answerList": [
+      "299,792 km/s",
+      "150,000 km/s",
+      "450,000 km/s",
+      "600,000 km/s"
+    ],
+    "correctAnswer": "299,792 km/s"
+  },
+  {
+    "id": "q_19",
+    "difficulty": "easy",
+    "question": "What is the capital city of Australia?",
+    "answerList": ["Sydney", "Melbourne", "Canberra", "Perth"],
+    "correctAnswer": "Canberra"
+  },
+  {
+    "id": "q_20",
+    "difficulty": "medium",
+    "question": "Who invented the telephone?",
+    "answerList": [
+      "Thomas Edison",
+      "Alexander Graham Bell",
+      "Nikola Tesla",
+      "Guglielmo Marconi"
+    ],
+    "correctAnswer": "Alexander Graham Bell"
+  }
+]

@@ -1,0 +1,307 @@
+[
+  {
+    "id": "q_e1a2s3y4_s1c2i3e4n5c6e7_1",
+    "topic": "Science",
+    "difficulty": "easy",
+    "question": "What is the chemical symbol for water?",
+    "answerList": ["O2", "CO2", "H2O", "N2"],
+    "correctAnswer": "H2O"
+  },
+  {
+    "id": "q_e1a2s3y4_s1c2i3e4n5c6e7_2",
+    "topic": "Science",
+    "difficulty": "easy",
+    "question": "What planet is known as the Red Planet?",
+    "answerList": ["Earth", "Mars", "Jupiter", "Venus"],
+    "correctAnswer": "Mars"
+  },
+  {
+    "id": "q_e1a2s3y4_s1c2i3e4n5c6e7_3",
+    "topic": "Science",
+    "difficulty": "easy",
+    "question": "Which gas do plants absorb from the atmosphere?",
+    "answerList": ["Oxygen", "Carbon Monoxide", "Carbon Dioxide", "Nitrogen"],
+    "correctAnswer": "Carbon Dioxide"
+  },
+  {
+    "id": "q_e1a2s3y4_s1c2i3e4n5c6e7_4",
+    "topic": "Science",
+    "difficulty": "easy",
+    "question": "What is the powerhouse of the cell?",
+    "answerList": [
+      "Nucleus",
+      "Mitochondria",
+      "Endoplasmic Reticulum",
+      "Golgi Apparatus"
+    ],
+    "correctAnswer": "Mitochondria"
+  },
+  {
+    "id": "q_e1a2s3y4_s1c2i3e4n5c6e7_5",
+    "topic": "Science",
+    "difficulty": "easy",
+    "question": "Which element has the chemical symbol 'O'?",
+    "answerList": ["Oxygen", "Osmium", "Ozone", "Olivine"],
+    "correctAnswer": "Oxygen"
+  },
+  {
+    "id": "q_e1a2s3y4_s1c2i3e4n5c6e7_6",
+    "topic": "Science",
+    "difficulty": "easy",
+    "question": "What is the largest planet in our solar system?",
+    "answerList": ["Mars", "Jupiter", "Saturn", "Neptune"],
+    "correctAnswer": "Jupiter"
+  },
+  {
+    "id": "q_e1a2s3y4_s1c2i3e4n5c6e7_7",
+    "topic": "Science",
+    "difficulty": "easy",
+    "question": "What is the chemical symbol for gold?",
+    "answerList": ["Au", "Ag", "Fe", "Cu"],
+    "correctAnswer": "Au"
+  },
+  {
+    "id": "q_e1a2s3y4_s1c2i3e4n5c6e7_8",
+    "topic": "Science",
+    "difficulty": "easy",
+    "question": "What force keeps planets in orbit around the sun?",
+    "answerList": ["Gravity", "Magnetism", "Friction", "Tension"],
+    "correctAnswer": "Gravity"
+  },
+  {
+    "id": "q_e1a2s3y4_s1c2i3e4n5c6e7_9",
+    "topic": "Science",
+    "difficulty": "easy",
+    "question": "What is the chemical formula for table salt?",
+    "answerList": ["NaCl", "H2O", "CO2", "CaCO3"],
+    "correctAnswer": "NaCl"
+  },
+  {
+    "id": "q_e1a2s3y4_s1c2i3e4n5c6e7_10",
+    "topic": "Science",
+    "difficulty": "easy",
+    "question": "What gas do plants release during photosynthesis?",
+    "answerList": ["Oxygen", "Carbon Dioxide", "Nitrogen", "Methane"],
+    "correctAnswer": "Oxygen"
+  },
+  {
+    "id": "q_m1e2d3i4u5m6_s1c2i3e4n5c6e7_1",
+    "topic": "Science",
+    "difficulty": "medium",
+    "question": "What is the chemical symbol for the element with atomic number 26?",
+    "answerList": ["Fe", "Cu", "Ag", "Au"],
+    "correctAnswer": "Fe"
+  },
+  {
+    "id": "q_m1e2d3i4u5m6_s1c2i3e4n5c6e7_2",
+    "topic": "Science",
+    "difficulty": "medium",
+    "question": "Which scientist is known for formulating the laws of motion and universal gravitation?",
+    "answerList": [
+      "Isaac Newton",
+      "Albert Einstein",
+      "Galileo Galilei",
+      "Niels Bohr"
+    ],
+    "correctAnswer": "Isaac Newton"
+  },
+  {
+    "id": "q_m1e2d3i4u5m6_s1c2i3e4n5c6e7_3",
+    "topic": "Science",
+    "difficulty": "medium",
+    "question": "What is the process by which plants make their own food using sunlight?",
+    "answerList": [
+      "Respiration",
+      "Photosynthesis",
+      "Transpiration",
+      "Fermentation"
+    ],
+    "correctAnswer": "Photosynthesis"
+  },
+  {
+    "id": "q_m1e2d3i4u5m6_s1c2i3e4n5c6e7_4",
+    "topic": "Science",
+    "difficulty": "medium",
+    "question": "In chemistry, what is the pH scale used to measure?",
+    "answerList": ["Temperature", "Acidity", "Pressure", "Density"],
+    "correctAnswer": "Acidity"
+  },
+  {
+    "id": "q_m1e2d3i4u5m6_s1c2i3e4n5c6e7_5",
+    "topic": "Science",
+    "difficulty": "medium",
+    "question": "Which gas is most abundant in the Earth's atmosphere?",
+    "answerList": ["Oxygen", "Carbon Dioxide", "Nitrogen", "Argon"],
+    "correctAnswer": "Nitrogen"
+  },
+  {
+    "id": "q_m1e2d3i4u5m6_s1c2i3e4n5c6e7_6",
+    "topic": "Science",
+    "difficulty": "medium",
+    "question": "What is the smallest unit of matter that retains the properties of an element?",
+    "answerList": ["Atom", "Molecule", "Cell", "Proton"],
+    "correctAnswer": "Atom"
+  },
+  {
+    "id": "q_m1e2d3i4u5m6_s1c2i3e4n5c6e7_7",
+    "topic": "Science",
+    "difficulty": "medium",
+    "question": "Which planet is known as the 'Morning Star' or 'Evening Star' due to its bright appearance?",
+    "answerList": ["Mars", "Venus", "Jupiter", "Saturn"],
+    "correctAnswer": "Venus"
+  },
+  {
+    "id": "q_m1e2d3i4u5m6_s1c2i3e4n5c6e7_8",
+    "topic": "Science",
+    "difficulty": "medium",
+    "question": "What is the main function of the mitochondria in a cell?",
+    "answerList": [
+      "Energy production",
+      "Cell division",
+      "Protein synthesis",
+      "Waste elimination"
+    ],
+    "correctAnswer": "Energy production"
+  },
+  {
+    "id": "q_m1e2d3i4u5m6_s1c2i3e4n5c6e7_9",
+    "topic": "Science",
+    "difficulty": "medium",
+    "question": "Which scientist developed the theory of relativity?",
+    "answerList": [
+      "Isaac Newton",
+      "Albert Einstein",
+      "Stephen Hawking",
+      "Galileo Galilei"
+    ],
+    "correctAnswer": "Albert Einstein"
+  },
+  {
+    "id": "q_m1e2d3i4u5m6_s1c2i3e4n5c6e7_10",
+    "topic": "Science",
+    "difficulty": "medium",
+    "question": "What is the chemical formula for glucose?",
+    "answerList": ["C6H12O6", "H2O", "CO2", "NaCl"],
+    "correctAnswer": "C6H12O6"
+  },
+  {
+    "id": "q1",
+    "topic": "Science",
+    "difficulty": "hard",
+    "question": "What is the process by which protons and neutrons are formed in the early universe, moments after the Big Bang?",
+    "answerList": [
+      "Nucleosynthesis",
+      "Quark-Gluon Plasma",
+      "Dark Matter Annihilation",
+      "Cosmic Inflation"
+    ],
+    "correctAnswer": "Quark-Gluon Plasma"
+  },
+  {
+    "id": "q2",
+    "topic": "Science",
+    "difficulty": "hard",
+    "question": "In molecular biology, what is the function of the CRISPR-Cas9 system?",
+    "answerList": [
+      "DNA replication",
+      "Gene editing",
+      "Protein synthesis",
+      "RNA transcription"
+    ],
+    "correctAnswer": "Gene editing"
+  },
+  {
+    "id": "q3",
+    "topic": "Science",
+    "difficulty": "hard",
+    "question": "What is the phenomenon where a quantum system exists in multiple states simultaneously until observed?",
+    "answerList": [
+      "Wave-particle duality",
+      "Quantum entanglement",
+      "Superposition",
+      "Quantum tunneling"
+    ],
+    "correctAnswer": "Superposition"
+  },
+  {
+    "id": "q4",
+    "topic": "Science",
+    "difficulty": "hard",
+    "question": "What is the name of the hypothetical substance that might constitute dark matter in the universe?",
+    "answerList": [
+      "Axions",
+      "Neutrinos",
+      "WIMPs (Weakly Interacting Massive Particles)",
+      "Gravitons"
+    ],
+    "correctAnswer": "WIMPs (Weakly Interacting Massive Particles)"
+  },
+  {
+    "id": "q5",
+    "topic": "Science",
+    "difficulty": "hard",
+    "question": "In neuroscience, what is the term for the junction between two nerve cells where signals are transmitted?",
+    "answerList": ["Synapse", "Neuronode", "Axon terminal", "Dendritic cleft"],
+    "correctAnswer": "Synapse"
+  },
+  {
+    "id": "q6",
+    "topic": "Science",
+    "difficulty": "hard",
+    "question": "What is the main component responsible for the greenhouse effect on Earth?",
+    "answerList": [
+      "Carbon dioxide (CO2)",
+      "Methane (CH4)",
+      "Water vapor",
+      "Nitrous oxide (N2O)"
+    ],
+    "correctAnswer": "Water vapor"
+  },
+  {
+    "id": "q7",
+    "topic": "Science",
+    "difficulty": "hard",
+    "question": "In quantum mechanics, what is Heisenberg's Uncertainty Principle?",
+    "answerList": [
+      "The impossibility of measuring both position and momentum simultaneously with absolute certainty",
+      "The conservation of energy in a closed system",
+      "The quantization of angular momentum",
+      "The law of superposition"
+    ],
+    "correctAnswer": "The impossibility of measuring both position and momentum simultaneously with absolute certainty"
+  },
+  {
+    "id": "q8",
+    "topic": "Science",
+    "difficulty": "hard",
+    "question": "What is the name of the process where radioactive decay leads to the emission of an alpha particle from an atomic nucleus?",
+    "answerList": [
+      "Beta decay",
+      "Gamma decay",
+      "Alpha decay",
+      "Electron capture"
+    ],
+    "correctAnswer": "Alpha decay"
+  },
+  {
+    "id": "q9",
+    "topic": "Science",
+    "difficulty": "hard",
+    "question": "In astronomy, what is the primary source of energy powering the Sun?",
+    "answerList": [
+      "Nuclear fusion",
+      "Gravitational collapse",
+      "Radioactive decay",
+      "Electromagnetic radiation"
+    ],
+    "correctAnswer": "Nuclear fusion"
+  },
+  {
+    "id": "q10",
+    "topic": "Science",
+    "difficulty": "hard",
+    "question": "What is the name of the hypothetical point in space-time where gravitational forces cause matter to become infinitely dense, forming a singularity?",
+    "answerList": ["Event horizon", "Black hole", "Singularity", "Wormhole"],
+    "correctAnswer": "Singularity"
+  }
+]

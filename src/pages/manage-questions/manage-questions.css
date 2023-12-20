@@ -1,0 +1,57 @@
+main {
+  position: relative;
+}
+.manage-questions__message-box {
+  position: absolute;
+  top: 40px;
+  left: 30%;
+  right: 30%;
+  padding: 1em;
+  background-color: rgb(249, 12, 4);
+  transition: opacity 2s ease-out;
+  opacity: 0;
+}
+
+main > h2 {
+  padding-top: 1em;
+}
+
+.manage-questions {
+  padding: 2em;
+}
+h2 {
+  text-align: center;
+}
+
+.question {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  padding: 1em;
+}
+
+.question:nth-child(odd) {
+  background-color: rgb(38, 39, 112);
+  color: var(--color_primary);
+}
+
+.question:nth-child(even) {
+  background-color: rgb(87, 80, 227);
+}
+
+.spinner {
+  width: 40px;
+  height: 40px;
+  background: linear-gradient(45deg, rgb(222, 222, 222), rgb(22, 22, 224));
+  animation: rotate 3s linear infinite;
+  border-radius: 50%;
+}
+
+@keyframes rotate {
+  0% {
+    transform: rotate(0deg);
+  }
+  100% {
+    transform: rotate(360deg);
+  }
+}
